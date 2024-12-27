@@ -1,0 +1,11 @@
+# Ignore any file without an extension
+*
+!*.*
+!*/
+
+# Ignore all Zone.Identifier files
+*:*Zone.Identifier
+
+# Ignore all objs directories
+**/objs/
+
